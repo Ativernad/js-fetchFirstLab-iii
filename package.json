@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ativernad/js-fetchFirstLab-iii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ativernad/js-fetchFirstLab-iii/issues"
+  },
+  "homepage": "https://github.com/Ativernad/js-fetchFirstLab-iii#readme"
 }
